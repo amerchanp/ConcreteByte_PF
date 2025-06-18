@@ -5,7 +5,7 @@
 
 Diseñaremos una sopa de letras con tamaño de 10x10 casillas.
 
-Empezaremos importando RANDOM para ayudarnos de la erramienta de aleatrorio, defininedo las letrras que irán en los espacios sin palabras, una constante para el tamaño de la sopa de letras y las palabras a ocultar.
+Empezaremos importando RANDOM para ayudarnos de la herramienta de aleatorio, defininedo las letras que irán en los espacios sin palabras, una constante para el tamaño de la sopa de letras y las palabras a ocultar.
 
 ```
 import random
@@ -21,8 +21,8 @@ palabras = ["GATO", "CASA", "LUNA", "SOL", "PERRO"]
 
 ```
 
-Luego, gramos una matriz llamada sopa, la cual se irá rellenando con herramientas que mas adelante en el código estableceremos, recorreremos la cantidad definida en TAMANO y se le apregará un . (al principio vacía pero se va a ir llenando) para al final agragarlas a la matriz.
-En la función lo que haceos es covertir las filas en strings, separando cada letra con un espacio.
+Luego, creamos una matriz llamada sopa, la cual se irá rellenando con herramientas que mas adelante en el código estableceremos, recorreremos la cantidad definida en TAMANO y se le agregará un . (al principio vacía pero se va a ir llenando) para al final agregarlas a la matriz.
+En la función lo que hacemos es covertir las filas en strings, separando cada letra con un espacio.
 
 ```
 # Crear una cuadrícula vacía (lista de listas)
