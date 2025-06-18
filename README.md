@@ -40,4 +40,18 @@ def imprimir_sopa(sopa):
 
 ```
 
+```mermaid
+flowchart TD
+    A[Inicio] --> B[Crear matriz vacía]
+    B --> C[Recorrer filas (i en range(TAMANO))]
+    C --> D[Crear fila vacía]
+    D --> E[Recorrer columnas (j en range(TAMANO))]
+    E --> F[Agregar "." a la fila]
+    F --> G[Agregar fila completa a la matriz]
+    G --> H[¿Quedan filas por recorrer?]
+    H -- Sí --> C
+    H -- No --> I[Imprimir sopa]
+    I --> J[Fin]
+```
+
 Ese es el avance inicial de proyecto, muchas gracias.
