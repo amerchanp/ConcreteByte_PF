@@ -81,8 +81,8 @@ Una vez que la inserción funcionaba, nos concentramos en la interacción con el
 
 También se agregó una lista de palabras encontradas, que se va actualizando a medida que el jugador acierta. El juego muestra mensajes personalizados según el resultado de cada intento y mantiene visible el progreso en la cuadrícula. Finalmente, se incluyó una medición del tiempo en que se completa el juego, convirtiéndolo a minutos y segundos. Todo se desarrolló sin librerías externas, priorizando la claridad del código, el aprendizaje y una experiencia amigable.
 
- ## ¿Qué se obtubo?
- Acá se explica los distintos bloques utilizados, pero adjunto al repo se encuentra el archivo con el código, allí también se indica el titulo del bloque.
+ ## ¿Qué se obtuvo?
+ **Acá se explica los distintos bloques utilizados, pero adjunto al repo se encuentra el archivo con el código, allí también se indica el titulo del bloque.
  
 ### Configurar dificultad
 Aca se pregunta al usuario que dificultad quiere, eso definirá el tamaño y palabras a encontrar, se hace en un while para que en caso de ingresar algo raro, se le indique y vuelva a preguntar.
