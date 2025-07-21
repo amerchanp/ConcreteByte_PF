@@ -3,10 +3,10 @@
 ## Integrantes: Alejandro Merchan, Brandon Barriga
 # SOPA DE LETRAS
 
-En el desarrollo de este proyecto, se planteó como objetivo principal la creación de una sopa de letras interactiva mediante el lenguaje de programación Python, la cual permitiera al usuario seleccionar la dificultad y buscar palabras ocultas relacionadas con un tema específico. El propósito fue no solo desarrollar una herramienta lúdica, sino también reforzar conceptos fundamentales de programación, tales como listas, diccionarios, ciclos, condicionales, manipulación de cadenas de texto, y el uso de librerías como random y time.
+En el desarrollo de este proyecto, se planteó como objetivo principal la creación de una sopa de letras interactiva mediante el lenguaje de programación Python, la cual permitiera al usuario seleccionar la dificultad y buscar palabras ocultas relacionadas con un tema específico. El propósito fue no solo desarrollar una herramienta lúdica, sino también reforzar conceptos fundamentales de programación.
 
 Durante la etapa de planeación, se contemplaron varias alternativas para la implementación del juego. Entre las ideas iniciales, se pensó en desarrollar un menú que permitiera al usuario elegir el tema manualmente, así como implementar una cuadrícula con posiciones de palabras diagonales o incluso palabras escritas al revés. Sin embargo, tras analizar la complejidad y el tiempo disponible para la entrega, se decidió enfocar la solución en una sopa de letras más sencilla, donde las palabras se ubican únicamente de forma horizontal o vertical y son seleccionadas de forma aleatoria tanto en su posición como en su dirección.
-Finalmente, se optamos por automatizar la elección del tema para darle un toque más dinámico al juego, dejando que el propio programa escoja entre los temas en el diccionario como lo son Ingeniería Civil, Música o Programación. Asimismo, se ofrecieron tres niveles de dificultad (fácil, medio y difícil), variando tanto el tamaño de la cuadrícula como la cantidad de palabras a encontrar por el usuario.
+Finalmente, se optamos por automatizar la elección del tema para darle un toque más dinámico al juego, dejando que el propio programa escoja entre los temas en el diccionario. Asimismo, se ofrecieron tres niveles de dificultad, variando tanto el tamaño de la cuadrícula como la cantidad de palabras a encontrar por el usuario.
 
 ## Planteamiento para la creación:
 
@@ -65,8 +65,7 @@ Desarrollar una aplicación interactiva en Python que permita al usuario jugar u
 
 El desarrollo de esta sopa de letras interactiva nos permitió afianzar los conocimientos fundamentales de la programación que aprendimos durante el curso, especialmente en la manipulación de listas, diccionarios y cadenas, así como en el manejo de ciclos, condicionales y funciones en Python. A través de este proyecto se demostró la importancia de organizar correctamente los datos y de implementar estructuras lógicas que faciliten la interacción con el usuario.
 
-Aunque inicialmente se exploraron ideas más complejas, como permitir palabras en diagonal o elegir manualmente el tema, se optó por una solución que equilibrara funcionalidad, tiempo de desarrollo y claridad en la implementación. Gracias a esto, se logró construir un programa completamente funcional, capaz de generar sopas de letras temáticas con distintos niveles de dificultad y una experiencia dinámica para el usuario.
-Este ejercicio también refleja cómo pequeños proyectos pueden convertirse en herramientas útiles para reforzar habilidades lógicas, pensamiento algorítmico y el trabajo disciplinado que requiere la programación estructurada.
+Aunque inicialmente se exploraron ideas más complejas, como permitir palabras en diagonal o elegir manualmente el tema, optamos por una solución que equilibrara funcionalidad, tiempo de desarrollo y claridad en la implementación. Gracias a esto, se logró construir un programa completamente funcional, capaz de generar sopas de letras temáticas con distintos niveles de dificultad y una experiencia dinámica para el usuario.
 
 
 
