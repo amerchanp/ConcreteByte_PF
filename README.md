@@ -47,6 +47,10 @@ flowchart TD
     T --> U[Fin]
 ```
 
+En el diagrama de flujo vemos la cuadricula que dice iniciar y detener cronometro, esto no es exactamente como un cronometro, lo que hace que podamos obetener el tiempo que tarda la persona en encontrar las palabras, es la libreria que importamos al principio (time), que tiene el tiempo en segundos que ha pasado desde una fecha de 1970 hasta el dia de hoy y va corriendo el tiempo hasta que se termine el juego.
+TI: tiempo desde 1970 hata el inicio del juego
+TF: tiempo desde 1970 hasta que se finalizo el juego
+Cronometro: TF - TI
 
 ## Objetivo General:
 
