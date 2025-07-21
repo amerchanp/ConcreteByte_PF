@@ -118,6 +118,8 @@ Acá creamos un bucle con while mientras no se encuentren todas las palabras. Ac
 Acá lo que se hace es crear un string vacío donde vamos a ir agregando las letras. Dependiendo de las instrucciones dadas arriba, se guardaron las variables de las coordenadas dadas por el jugador. Acá validamos si se sale de la cuadricula o si no es válido.
 Finalmente, creamos otra variable de time.time para ver los segundos en el momento de la finalización y restamos ambos tiempos en una variable para ver el tiempo demorado.
 
+## Resultado final
+Obtuvimos un programa interactivo de python, con contador de tiempo, tamaño y palabras a encontrar según dificultas, el jugador puede finalizar cuando desee.
 
 ## Conlusiones:
 
